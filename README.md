@@ -16,4 +16,4 @@ HelloWorld Programm mit GUI in FXML (SceneBuilder)
 
 ## HelloAnybody
 
-HelloWorls Programm mit FXML, Namenseingabe und Dialogbox (Alert)
+HelloWorld Programm mit FXML, Namenseingabe und Dialogbox (Alert)
