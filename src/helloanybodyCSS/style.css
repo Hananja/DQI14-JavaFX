@@ -1,0 +1,19 @@
+/*
+Bitte sparsam einsetzen!
+Viel Bunt ist nicht unbedingt bedienfreundlich und ergonomisch.
+
+Diese Beispiele dienen als Extrembeispiele nur der Demonstration der Funkionalität.
+ */
+
+#buttonSay { /* für eine ID: buttonSay */
+    -fx-rotate: 5;
+}
+
+Button:hover { /* für alle Buttons, über die die Maus steht */
+    -fx-background-color: azure;
+}
+
+.myclass { /* für alle Elemente mit einer speziellen Klasse */
+    -fx-background-color: hotpink;
+    -fx-effect: dropshadow(gaussian, maroon, 10, 0.5, 3, 3);
+}
